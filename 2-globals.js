@@ -1,0 +1,1 @@
+// Just info about globals like require
